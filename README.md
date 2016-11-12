@@ -1,2 +1,2 @@
 # Jean-Charles
-Responsive test
+Test on Responsive (HTML,css)
